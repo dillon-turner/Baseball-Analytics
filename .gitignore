@@ -1,3 +1,6 @@
+# Ignore files
+EventData2023.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
